@@ -4,6 +4,6 @@
 
 ### Network Architecture
 The architecture of our proposed model is as follows
-![image](https://github.com/take-off-ddl/MWDN/blob/main/PP1.pdf)
-![image](https://github.com/take-off-ddl/MWDN/blob/main/PP2.pdf)
+![image](https://github.com/take-off-ddl/MWDN/blob/main/p1.png)
+![image](https://github.com/take-off-ddl/MWDN/blob/main/p2.png)
 The complete code will be released after the publication of the paper.
